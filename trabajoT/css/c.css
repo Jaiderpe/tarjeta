@@ -1,0 +1,111 @@
+
+.body{
+    background: linear-gradient(#ffffff,#e6e6e6,#808080);
+}
+.retangle-1{
+    margin-top: 13vw;
+    margin-bottom: 100vw;
+    margin-left: 6vw;
+    margin-right: 100vw;
+    position: absolute;
+    z-index: -1;
+}
+.metrolinea-2{
+    top: 15vw;
+    left: 10vw;
+    width: 196vw;
+    height: 44vw;
+    position: absolute;
+    z-index: 1;
+}
+.comprar{
+    top: 16vw;
+    left: 50vw;
+    width: 30vw;
+    height: 150vw;
+    position: absolute;
+    z-index: 1;
+}
+.ver{
+    top: 16vw;
+    left: 70vw;
+    width: 30vw;
+    height: 150vw;
+    position: absolute;
+    z-index: 1;
+}
+.tarjeta{
+    top: 19vw;
+    left: 15vw;
+    width: 70vw;
+    height: 100vw;
+    position: absolute;
+    z-index: -1;
+
+}
+.icone{
+    top: 16vw;
+    left: 80vw;
+    width: 27vw;
+    height: 27vw;
+    position: absolute;
+    z-index: 1;
+}
+.iconec{
+    top: 16vw;
+    left: 85vw;
+    width: 33vw;
+    height: 32vw;
+    position: absolute;
+    z-index: 1;
+}
+.saldo{
+    top: 55vw;
+    left: 12vw;
+    width: 716vw;
+    height: 55vw;
+    position: absolute;
+    z-index: 1;
+}
+.cop{
+    top: 60vw;
+    left: 12vw;
+    width: 139vw;
+    height: 37vw;
+    position: absolute;
+    z-index: 1;
+}
+.verde{
+    top: 55vw;
+    left: 77vw;
+    width: 160vw;
+    height: 114vw;
+    position: absolute;
+    z-index: 1;
+
+}
+.logo{
+    top: 56vw;
+    left: 78vw;
+    width: 129vw;
+    height: 29vw;
+    position: absolute;
+    z-index: 1;
+
+}
+.com{
+    top: 59vw;
+    left: 79vw;
+    width: 111vw;
+    height: 36vw;
+    position: absolute;
+    z-index: 1;
+}
+.cui{
+    top: 13.5vw;
+    left: 92vw;
+    width: 120vw;
+    height: 100vw;
+    position: absolute;
+    z-index: -1;
+}
