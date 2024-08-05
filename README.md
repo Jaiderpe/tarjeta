@@ -1,10 +1,10 @@
 # El DISEÑO PREVIO DE FUNCIONAMIENTO DE UNA TARJETA DE CREDITO 
 
-_Es una tienda virtual que cumple con  las caracteristcas principal para la compra de ropa esclusiva para uso personal_
+_Es una la espectativa de un funcionamiento de una tarjeta virtual_
 
 ## Dando inicio  🚀
 
-_Estas instrucciones para un diseño acoplado para el uso del sitio web _
+_Al aprendisaje de html y css_
 
 
 ## Ejecutando las pruebas ⚙️
@@ -30,8 +30,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 ## Contribuyendo 🖇️
-
-compañero de clase Érick aria 
+trainer pedro
 
 
 ## Autores ✒️
@@ -39,5 +38,5 @@ compañero de clase Érick aria
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Jaider adrián Pérez vega ** 
-* **Érick arias ** 
+
 
